@@ -1,5 +1,5 @@
 {
-  "name": "Timestamp Microservice",
+  "name": "Timestamp-Microservice",
   "version": "1.0.1",
   "description": "Timestamp API.",
   "main": "server.js",
