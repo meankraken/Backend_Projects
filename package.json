@@ -21,8 +21,6 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Blake Johnston",
-  "license": "MIT",
   "dependencies": {
     "bootstrap": "^3.3.6",
     "dotenv": "^1.2.0",
